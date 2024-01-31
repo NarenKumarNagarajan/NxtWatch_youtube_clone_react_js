@@ -13,24 +13,28 @@ This project is a YouTube clone developed using React.js, showcasing my skills i
 
 ## Installation
 
-1. **Clone the repository:**
+**1. Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/react-youtube-clone.git
+```
 
-2. **Navigate to the project directory:**
+**2. Navigate to the project directory:**
 
 ```bash
 cd react-youtube-clone
+```
 
-3. **Install dependencies::**
+**3. Install dependencies:**
 
 ```bash
 npm install
+```
 
-4. **Run the application:**
+**4. Run the application:**
 
 ```bash
 npm start
+```
 
-5. **Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the YouTube clone.**
+**5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the YouTube clone.**

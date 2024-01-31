@@ -38,3 +38,7 @@ npm start
 ```
 
 **5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the YouTube clone.**
+
+# Contributing
+
+Contributions are welcome! Feel free to fork the repository, create issues, or submit pull requests.
